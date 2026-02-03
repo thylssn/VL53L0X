@@ -83,10 +83,6 @@ Se preferir não usar o VS Code, você pode compilar manualmente.
 ├── LICENSE                # Licença do projeto
 └── pico_sdk_import.cmake  # Script para importar o SDK do Pico
 ```
-
-## 👨‍💻 Autores
-
--   **thalyssonDEV**
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
