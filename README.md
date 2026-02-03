@@ -11,7 +11,6 @@ Este repositório contém um projeto em C para utilizar o sensor de distância a
   - [Usando o VS Code com a Extensão Raspberry Pi Pico (Recomendado)](#usando-o-vs-code-com-a-extensão-raspberry-pi-pico-recomendado)
   - [Usando a Linha de Comando](#usando-a-linha-de-comando)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Autores](#-autores)
 - [Licença](#-licença)
 
 ## ✨ Funcionalidades
