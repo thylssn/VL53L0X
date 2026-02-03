@@ -1,17 +1,6 @@
 # Sensor de Distância a Laser VL53L0X com Raspberry Pi Pico
 
 Este repositório contém um projeto em C para utilizar o sensor de distância a laser Time-of-Flight (ToF) VL53L0X com a placa Raspberry Pi Pico.
-## 📋 Índice
-
-- [Funcionalidades](#-funcionalidades)
-- [Hardware Necessário](#-hardware-necessário)
-- [Software e Dependências](#-software-e-dependências)
-- [Conexões](#-conexões)
-- [Como Compilar e Executar](#-como-compilar-e-executar)
-  - [Usando o VS Code com a Extensão Raspberry Pi Pico (Recomendado)](#usando-o-vs-code-com-a-extensão-raspberry-pi-pico-recomendado)
-  - [Usando a Linha de Comando](#usando-a-linha-de-comando)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Licença](#-licença)
 
 ## ✨ Funcionalidades
 
